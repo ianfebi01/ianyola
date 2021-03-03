@@ -1,6 +1,6 @@
     <!-- jumbotron -->
     <section class="jumbotron text-center">
-      <img src="<?php echo base_url(); ?>assets/images/icon_ianyola.png" width="400" alt="ianyola" />
+      <img src="<?php echo base_url(); ?>assets/images/icon_ianyola-min.png" width="400" alt="ianyola" />
       <h1 class="display-4">ianyola</h1>
       <p class="lead">Musician | Content Creator</p>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -22,7 +22,7 @@
         </div>
         <div class="row justify-content-center fs-5 text-center">
           <div class="col-md-4">
-            <p>Hallo! kami adalah pasangan konten kreator yang membuat konter berupa cover akustik lagu yang sedang populer dan lagu jawa.</p>
+            <p>Hallo! kami adalah pasangan konten kreator yang membuat konten berupa cover akustik lagu yang sedang populer dan lagu jawa.</p>
           </div>
           <div class="col-md-4">
             <p>Banyak yang mengira bahwa "Ianyola" adalah nama satu orang, namun yang benar adalah "Ian" adalah yang cowok, "Yola" yang cewek.</p>
