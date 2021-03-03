@@ -1,0 +1,16 @@
+body {
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #f1f1f1;
+}
+#channel {
+	background-color: #f1f1f1;
+}
+section {
+	padding-top: 6rem;
+}
+a {
+	cursor: pointer;
+}
